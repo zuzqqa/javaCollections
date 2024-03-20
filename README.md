@@ -1,6 +1,6 @@
 # javaCollections
 ## **PL:**
-**To aplikacja napisana w jęzku *Java*, która umożliwia operacje na kolekcjach danych oraz sortowanie obiektów. **Wczytuje rekurencyjny zbiór obiektów i pozwala na ich wyświetlanie, z wybranym sortowaniem. Klasy modelowe definiują strukturę rekurencyjną, uwzględniają implementacje porównań, sortowania. Aplikacja umożliwia wykonanie sortowania poprzez interfejs Comparator. Program liczby statystyk potomków, zwracając kartę elementów zbiorczych i ich potomków. W projektcie wykorzystano narzędzie Apache Maven, a uruchomienie będzie wymagało języka *Java* w wersji 11 lub nowszej.
+**To aplikacja napisana w jęzku *Java*, która umożliwia operacje na kolekcjach danych oraz sortowanie obiektów.** Wczytuje rekurencyjny zbiór obiektów i pozwala na ich wyświetlanie, z wybranym sortowaniem. Klasy modelowe definiują strukturę rekurencyjną, uwzględniają implementacje porównań, sortowania. Aplikacja umożliwia wykonanie sortowania poprzez interfejs Comparator. Program liczby statystyk potomków, zwracając kartę elementów zbiorczych i ich potomków. W projektcie wykorzystano narzędzie Apache Maven, a uruchomienie będzie wymagało języka *Java* w wersji 11 lub nowszej.
 
 
 ## **ENG:**
